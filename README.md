@@ -2,6 +2,10 @@
 
 PomodoroApp est une application simple et intuitive basée sur la technique Pomodoro, développée en **Alpine JS**. Elle permet de gérer facilement des sessions de travail et de pauses pour améliorer la productivité.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/c5d5890e-0f8f-4d96-8353-b7641aac18fa)
+![image](https://github.com/user-attachments/assets/9a2d2ac0-f791-44f9-b95c-ace3c674133e)
+
 ## Fonctionnalités
 
 - **Cycles Pomodoro** : Définis une session de travail (par défaut 25 minutes) suivie d'une courte pause (5 minutes).
